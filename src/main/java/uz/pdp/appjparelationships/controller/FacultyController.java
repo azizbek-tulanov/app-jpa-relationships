@@ -80,6 +80,4 @@ public class FacultyController {
         }
         return "Faculty not found";
     }
-
-
 }
